@@ -121,8 +121,6 @@ The function has the following parameters:
 
 ## Examples
 
-<!-- eslint-disable max-len -->
-
 <!-- eslint no-undef: "error" -->
 
 ```javascript
